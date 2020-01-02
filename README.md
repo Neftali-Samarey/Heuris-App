@@ -1,8 +1,9 @@
 
 # Heuris (Private repo)
+## As of January 2nd, 2020 (In development)
 
 <div align = "center">
-<img src="screenshots/profileview.png" width="700" />
+<img src="screenshots/profileview.png" width='270px' />
 </div>
 
 
