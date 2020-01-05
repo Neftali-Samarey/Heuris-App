@@ -8,7 +8,7 @@
 
 ## Screenshot of some of the code segment for the user profile
 <div align="center">
-<img src="screenshots/samplecode.png" width="300px"/>
+<img src="screenshots/samplecode.png"/>
 </div>
 
 
