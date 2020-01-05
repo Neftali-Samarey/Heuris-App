@@ -1,6 +1,6 @@
 
 # Heuris (Private repo)
-## As of January 4nd, 2020 (In development)
+## As of January 4th, 2020 (In development)
 
 <div align = "center">
 <img src="screenshots/profilepreview2.png" width='280px' />
