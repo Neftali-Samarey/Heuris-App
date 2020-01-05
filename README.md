@@ -1,9 +1,9 @@
 
 # Heuris (Private repo)
-## As of January 2nd, 2020 (In development)
+## As of January 4nd, 2020 (In development)
 
 <div align = "center">
-<img src="screenshots/profileview.png" width='270px' />
+<img src="screenshots/profilepreview2.png" width='280px' />
 </div>
 
 ## Screenshot of some of the code segment for the user profile
